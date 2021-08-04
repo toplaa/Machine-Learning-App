@@ -4,3 +4,7 @@ This App integrates the common Machine Learning datasets "Iris", "Breast cancer"
 Finally, It also includes a dimensionality reduction of features using Principal Component Analysis and displays the result in a graphical manner.
 
 Further comments are included within the code for more clarifications
+
+Useful commands:
+pip install streamlit --> to install
+streamlit run main.py --> to run file from the terminal. file name here is main.py
